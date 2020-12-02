@@ -1,6 +1,6 @@
 # ecom
 
-This is an Ecomerce site built with Django3.
+This is an Ecommerce site built with Django3.
 
 ## Installation
 
